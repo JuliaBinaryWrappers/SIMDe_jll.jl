@@ -1,6 +1,6 @@
 [SIMDe]
-git-tree-sha1 = "ce754de91d962b5015fe86cf9da825c157b62509"
+git-tree-sha1 = "db342c5a68adbc45dc6076947b3cdca5acc00f77"
 
     [[SIMDe.download]]
-    sha256 = "8e2f03abda2804b1b6e2ee4bf05c2a1ec2d7d17206990cfcf1ea6acc8da8c05d"
-    url = "https://github.com/JuliaBinaryWrappers/SIMDe_jll.jl/releases/download/SIMDe-v0.7.6+0/SIMDe.v0.7.6.any.tar.gz"
+    sha256 = "c2113c8cc87a1e0024d3aa9f7541ebba16caddfe584bae9ecf05c246857730ec"
+    url = "https://github.com/JuliaBinaryWrappers/SIMDe_jll.jl/releases/download/SIMDe-v0.8.2+0/SIMDe.v0.8.2.any.tar.gz"
